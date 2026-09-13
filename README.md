@@ -199,11 +199,15 @@ The project was developed as an academic capstone and is intended as a **decisio
 **University:** City of Malabon University  
 **Batch:** 2026
 
-## Author
+## Contribution
 
-**Ammaron C. Oliveros**
-
-Information Technology graduate with a foundation in full-stack development, Python/Django development, database management, technical troubleshooting, and systems integration.
+| Role                | Member                 |
+| ------------------- | ---------------------- |
+| **Lead Developer**  | Ivan Conejero          |
+| **Developer**       | James Matthew Gabatbat |
+| **Lead Programmer** | Ammaron Oliveros       |
+| **Researcher**      | Strawberry Litaban     |
+| **Researcher**      | Jeffrey John Natividad |
 
 ---
 
