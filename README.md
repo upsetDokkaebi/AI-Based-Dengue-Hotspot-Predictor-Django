@@ -203,7 +203,7 @@ The project was developed as an academic capstone and is intended as a **decisio
 
 📄 **Capstone Manuscript / Full Documentation**
 
-[View the Full Capstone Paper](asset/PREDICTING-DENGUE-HOTSPOTS.pdf)
+[View the Full Capstone Paper](asset/PREDICTING DENGUE HOTSPOTS.pdf)
 
 This document contains the complete research methodology, system design, data analysis, machine learning approach, testing, and findings of the project.
 
