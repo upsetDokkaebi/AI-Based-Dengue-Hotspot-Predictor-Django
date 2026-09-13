@@ -212,8 +212,8 @@ This document contains the complete research methodology, system design, data an
 | Role                | Member                 |
 | ------------------- | ---------------------- |
 | **Lead Developer**  | Ivan Conejero          |
-| **Developer**       | James Matthew Gabatbat |
 | **Lead Programmer** | Ammaron Oliveros       |
+| **Asst. Dev & Researcher**       | James Matthew Gabatbat |
 | **Researcher**      | Strawberry Litaban     |
 | **Researcher**      | Jeffrey John Natividad |
 
