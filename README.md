@@ -5,7 +5,9 @@
   <em>Capstone Project | Bachelor of Science in Information Technology | City of Malabon University</em>
 </p>
 
-<img src="assets/AI-dengue-hotspot-predictor-preview.png" alt="Dengue Hotspot Prediction System" width="900">
+<p align="center">
+  <img src="asset/AI-dengue-hotspot-predictor-preview.png" alt="Dengue Hotspot Prediction System" width="900">
+</p>
 
 ## Project Overview
 
